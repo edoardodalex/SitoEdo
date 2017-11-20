@@ -1,0 +1,128 @@
+.bottoneLog {
+  background-color: #1a1a1a;
+  border-color: #b3b3b3;
+  color: white;
+  width: 75px;
+  height: 35px;
+}
+.logIn {
+  background-color: #1a1a1a;
+  border-color: #b3b3b3;
+  color: white;
+  width: 230px;
+  height: 30px;
+  position: absolute;
+  top: 240px;
+  left: 40%;
+}
+
+.logIn2 {
+  background-color: #1a1a1a;
+  border-color: #b3b3b3;
+  color: white;
+  width: 230px;
+  height: 30px;
+  position: absolute;
+  top: 330px;
+  left: 40%;
+}
+
+.label_In {
+  color: #b3b3b3;
+  position: absolute;
+  top: 210px;
+  left: 40%;
+  font-size: 18px;
+}
+
+.label_In2 {
+  color: #b3b3b3;
+  position: absolute;
+  top: 300px;
+  left: 40%;
+  font-size: 18px;
+}
+
+.label_up {
+  color: #b3b3b3;
+  position: absolute;
+  top: 155px;
+  left: 40%;
+  font-size: 18px;
+}
+
+.label_up2 {
+  color: #b3b3b3;
+  position: absolute;
+  top: 255px;
+  left: 40%;
+  font-size: 18px;
+}
+
+.label_up3 {
+  color: #b3b3b3;
+  position: absolute;
+  top: 355px;
+  left: 40%;
+  font-size: 18px;
+}
+
+.singUp {
+  background-color: #1a1a1a;
+  border-color: #b3b3b3;
+  color: white;
+  width: 240px;
+  height: 30px;
+  position: absolute;
+  top: 185px;
+  left: 40%;
+}
+
+.singUp2 {
+  background-color: #1a1a1a;
+  border-color: #b3b3b3;
+  color: white;
+  width: 240px;
+  height: 30px;
+  position: absolute;
+  top: 285px;
+  left: 40%;
+}
+
+.singUp3 {
+  background-color: #1a1a1a;
+  border-color: #b3b3b3;
+  color: white;
+  width: 240px;
+  height: 30px;
+  position: absolute;
+  top: 385px;
+  left: 40%;
+}
+
+.navbar {
+background-color: #000;
+position: fixed;
+top: 350px;
+width: 100%;
+}
+
+.navbar a {
+float: left;
+display: block;
+color: #f2f2f2;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font-size: 17px;
+}
+
+.navbar a:hover {
+background: #6000A1;
+color: white;
+}
+
+.navbar a.active {
+background-color: #000080;
+color: white;
+}
